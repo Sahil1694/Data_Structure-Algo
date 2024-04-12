@@ -13,11 +13,11 @@ public class Create {
             this.Wt = W;
         }
     }
-
+    @SuppressWarnings("unchecked")
     public static void main(String args[]){
 
         int V = 5;
-        int ans[] = new ans
+        // int ans[] = new int[5];
         ArrayList<Edge>[] graph = new ArrayList[V];
 
 

@@ -1,8 +1,8 @@
 package Graphs;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.Queue;
+// import java.util.LinkedList;
+// import java.util.Queue;
 
 public class DFS {
      static class Edge{
@@ -17,7 +17,6 @@ public class DFS {
         }
     }
     static void createGraph(ArrayList<Edge> graph[]){
-
      for(int i = 0; i< graph.length; i++){
             graph[i] = new ArrayList<>();
         }
@@ -56,11 +55,8 @@ public class DFS {
         //6 vertex
         graph[6].add(new Edge(6, 5, 1));
 
-
-
-
-
     }
+
    public static void dfs(ArrayList<Edge>[] graph){
     boolean vis[] = new boolean[graph.length];
     for(int i = 0; i <graph.length; i++){
@@ -80,30 +76,14 @@ public class DFS {
                 dfsUtil(graph, e.dest, vis);
             }
         }
-
-
     }
-
+    @SuppressWarnings("unchecked")
     public static void main(String args[]){
 
         int V = 7;
         ArrayList<Edge>[] graph = new ArrayList[V];
         createGraph(graph);
-
-        // dfs(graph,0,new boolean[V]);
         dfs(graph);
- 
-         //2's neighbours
-        //  for(int i = 0 ; i < graph[2].size(); i++){
-        //     Edge e = graph[2].get(i);
-        //     System.out.println(e.dest);
-        //  }
-
-
-
-
-
-      
     }
     
 }

@@ -16,8 +16,6 @@ public class BFS {
             this.Wt = W;
         }
     }
-
-
     static void createGraph(ArrayList<Edge> graph[]){
 
      for(int i = 0; i< graph.length; i++){
@@ -87,7 +85,7 @@ public class BFS {
             }
         }
     }
-     
+     //has path
     public static boolean hasPath(ArrayList<Edge>[] graph, int src , int dest , boolean vis[] ){
         if(src == dest){
             return true;
@@ -104,6 +102,7 @@ public class BFS {
         return false;
 
     }
+    @SuppressWarnings("unchecked")
     public static void main(String args[]){
 
         int V = 7;
@@ -118,13 +117,7 @@ public class BFS {
         //  for(int i = 0 ; i < graph[2].size(); i++){
         //     Edge e = graph[2].get(i);
         //     System.out.println(e.dest);
-        //  }
-
-
-
-
-
-      
+        //  }    
     }
     
 }

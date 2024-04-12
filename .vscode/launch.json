@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "bipartite",
+            "request": "launch",
+            "mainClass": "Graphs.bipartite",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
+            "name": "cycle",
+            "request": "launch",
+            "mainClass": "Graphs.cycle",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
+            "name": "DFS",
+            "request": "launch",
+            "mainClass": "Graphs.DFS",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
+            "name": "Create",
+            "request": "launch",
+            "mainClass": "Graphs.Create",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
+            "name": "BFS",
+            "request": "launch",
+            "mainClass": "Graphs.BFS",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
             "name": "distintctEle",
             "request": "launch",
             "mainClass": "Hashing.distintctEle",
