@@ -1,0 +1,553 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "distintctEle",
+            "request": "launch",
+            "mainClass": "Hashing.distintctEle",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "practice",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
+            "name": "linkHashSet",
+            "request": "launch",
+            "mainClass": "Hashing.linkHashSet",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "Hashset",
+            "request": "launch",
+            "mainClass": "Hashing.Hashset",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "MajorityEle",
+            "request": "launch",
+            "mainClass": "Hashing.MajorityEle",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "LinkedHash",
+            "request": "launch",
+            "mainClass": "Hashing.LinkedHash",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "operations",
+            "request": "launch",
+            "mainClass": "Hashing.operations",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "create",
+            "request": "launch",
+            "mainClass": "Trie.create",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "diamond",
+            "request": "launch",
+            "mainClass": "Patterns.diamond",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "duplicatepara",
+            "request": "launch",
+            "mainClass": "Stack.duplicatepara",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "BuySellStock",
+            "request": "launch",
+            "mainClass": "BuySellStock",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "Basics",
+            "request": "launch",
+            "mainClass": "String.Basics",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "arrays2D",
+            "request": "launch",
+            "mainClass": "arrays2D",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "SortingAssign",
+            "request": "launch",
+            "mainClass": "SortingAssign",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "DFS",
+            "request": "launch",
+            "mainClass": "Graphs.DFS",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "BFS",
+            "request": "launch",
+            "mainClass": "Graphs.BFS",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "Create",
+            "request": "launch",
+            "mainClass": "Graphs.Create",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "InsertInHeap",
+            "request": "launch",
+            "mainClass": "Heaps.InsertInHeap",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "PQinJCF",
+            "request": "launch",
+            "mainClass": "Heaps.PQinJCF",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "Mirror",
+            "request": "launch",
+            "mainClass": "Mirror",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "MaxLengthChain",
+            "request": "launch",
+            "mainClass": "Greedy.Greedy.MaxLengthChain",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "IndianCoin",
+            "request": "launch",
+            "mainClass": "Greedy.Greedy.IndianCoin",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "MinDiff",
+            "request": "launch",
+            "mainClass": "Greedy.Greedy.MinDiff",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "fractionalKnapSack",
+            "request": "launch",
+            "mainClass": "Greedy.Greedy.fractionalKnapSack",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "ActivitySelection",
+            "request": "launch",
+            "mainClass": "Greedy.Greedy.ActivitySelection",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "DQ",
+            "request": "launch",
+            "mainClass": "Queues.DQ",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "Rerversal",
+            "request": "launch",
+            "mainClass": "Queues.Rerversal",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "QusingStack",
+            "request": "launch",
+            "mainClass": "Queues.QusingStack",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "QusingJFC",
+            "request": "launch",
+            "mainClass": "Queues.QusingJFC",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "QInLL$Queue",
+            "request": "launch",
+            "mainClass": "Queues.QInLL$Queue",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "b",
+            "request": "launch",
+            "mainClass": "BST.b",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "Build",
+            "request": "launch",
+            "mainClass": "BST.Build",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "BST1",
+            "request": "launch",
+            "mainClass": "BST.BST1",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "heightOfTree",
+            "request": "launch",
+            "mainClass": "heightOfTree",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "preorder",
+            "request": "launch",
+            "mainClass": "preorder",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Arr",
+            "request": "launch",
+            "mainClass": "Arr",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "basics",
+            "request": "launch",
+            "mainClass": "Arraylist.basics",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "mostWater",
+            "request": "launch",
+            "mainClass": "Arraylist.mostWater",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "sum1",
+            "request": "launch",
+            "mainClass": "Arraylist.sum1",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "onArrays",
+            "request": "launch",
+            "mainClass": "Backtracking.onArrays",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "permutation",
+            "request": "launch",
+            "mainClass": "Backtracking.permutation",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "subset",
+            "request": "launch",
+            "mainClass": "Backtracking.subset",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "Basics",
+            "request": "launch",
+            "mainClass": "Basics",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "oddev",
+            "request": "launch",
+            "mainClass": "BitManipulation.oddev",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "ImpSum",
+            "request": "launch",
+            "mainClass": "LinkedList.ImpSum",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "Linked",
+            "request": "launch",
+            "mainClass": "LinkedList.Linked",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "MSort",
+            "request": "launch",
+            "mainClass": "MSort",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "Merge",
+            "request": "launch",
+            "mainClass": "Merge",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "Basics(1)",
+            "request": "launch",
+            "mainClass": "OPPS.Basics",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "BasicImplementation",
+            "request": "launch",
+            "mainClass": "Queues.BasicImplementation",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "Quick",
+            "request": "launch",
+            "mainClass": "Quick",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Recursion.Fibonacci",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "P1",
+            "request": "launch",
+            "mainClass": "Recursion.P1",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "P10",
+            "request": "launch",
+            "mainClass": "Recursion.P10",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "P11",
+            "request": "launch",
+            "mainClass": "Recursion.P11",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "P14",
+            "request": "launch",
+            "mainClass": "Recursion.P14",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "P2",
+            "request": "launch",
+            "mainClass": "Recursion.P2",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "P3",
+            "request": "launch",
+            "mainClass": "Recursion.P3",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "P4",
+            "request": "launch",
+            "mainClass": "Recursion.P4",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "P6",
+            "request": "launch",
+            "mainClass": "Recursion.P6",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "P7",
+            "request": "launch",
+            "mainClass": "Recursion.P7",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "P8",
+            "request": "launch",
+            "mainClass": "Recursion.P8",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "P9",
+            "request": "launch",
+            "mainClass": "Recursion.P9",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "SandR",
+            "request": "launch",
+            "mainClass": "SandR",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "Sorting",
+            "request": "launch",
+            "mainClass": "Sorting",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "AgeCalculator",
+            "request": "launch",
+            "mainClass": "Stack.AgeCalculator",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "ImpAL",
+            "request": "launch",
+            "mainClass": "Stack.ImpAL",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "ImpLL",
+            "request": "launch",
+            "mainClass": "Stack.ImpLL",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "ReverseStack",
+            "request": "launch",
+            "mainClass": "Stack.ReverseStack",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "ReverseStr",
+            "request": "launch",
+            "mainClass": "Stack.ReverseStr",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "StockSpan",
+            "request": "launch",
+            "mainClass": "Stack.StockSpan",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "nextgreater",
+            "request": "launch",
+            "mainClass": "Stack.nextgreater",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "pushBotton",
+            "request": "launch",
+            "mainClass": "Stack.pushBotton",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "sahil",
+            "request": "launch",
+            "mainClass": "String.sahil",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "TrappedWaterQ",
+            "request": "launch",
+            "mainClass": "TrappedWaterQ",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "arrays2",
+            "request": "launch",
+            "mainClass": "arrays2",
+            "projectName": "Alpha_59b528f1"
+        },
+        {
+            "type": "java",
+            "name": "basics2",
+            "request": "launch",
+            "mainClass": "basics2",
+            "projectName": "Alpha_59b528f1"
+        }
+    ]
+}
