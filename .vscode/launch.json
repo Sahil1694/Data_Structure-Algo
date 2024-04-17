@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "topoSort",
+            "request": "launch",
+            "mainClass": "Graphs.topoSort",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
+            "name": "cycleDFS",
+            "request": "launch",
+            "mainClass": "Graphs.cycleDFS",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
             "name": "bipartite",
             "request": "launch",
             "mainClass": "Graphs.bipartite",
