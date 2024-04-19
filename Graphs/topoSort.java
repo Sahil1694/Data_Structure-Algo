@@ -62,6 +62,7 @@ public class topoSort {
             graph[5].add(new Edge(5, 2));
        }
 
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) {
         int V = 6;
         ArrayList<Edge>g[] = new ArrayList[V];
