@@ -46,8 +46,7 @@ public class cycleDFS {
             }
         }
         stack[curr] = false;
-        return false;
-                     
+        return false;                 
        }
 
     public static boolean isCycle(ArrayList<Edge>graph[]){

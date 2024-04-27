@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Prims",
+            "request": "launch",
+            "mainClass": "Graphs.Prims",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
+            "name": "DijkstrasAlgo$Edge",
+            "request": "launch",
+            "mainClass": "Graphs.DijkstrasAlgo$Edge",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
             "name": "topoSort",
             "request": "launch",
             "mainClass": "Graphs.topoSort",
