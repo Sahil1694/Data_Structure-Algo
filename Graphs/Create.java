@@ -52,11 +52,6 @@ public class Create {
             Edge e = graph[2].get(i);
             System.out.println(e.dest);
          }
-         
-
-
-
-      
     }
     
 }

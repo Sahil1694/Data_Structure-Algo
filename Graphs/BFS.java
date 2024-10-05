@@ -55,9 +55,11 @@ public class BFS {
 
         //6 vertex
         graph[6].add(new Edge(6, 5, 1));
-
-
     }
+    
+
+
+
     public static void bfs(ArrayList<Edge>[] graph){
           boolean vis[] = new boolean[graph.length];
           for(int i = 0; i <graph.length;i++){
@@ -109,8 +111,8 @@ public class BFS {
         ArrayList<Edge>[] graph = new ArrayList[V];
         createGraph(graph);
 
-        // bfs(graph);
-        System.out.println(hasPath(graph, 0, 15,new boolean[V]));
+        bfs(graph);
+        // System.out.println(hasPath(graph, 0, 15,new boolean[V]));
 
  
          //2's neighbours

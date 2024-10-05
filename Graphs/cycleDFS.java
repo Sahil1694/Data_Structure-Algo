@@ -61,12 +61,7 @@ public class cycleDFS {
             }
         }
         return false;
-
-
     }   
-
-
-
     public static void main(String[] args) {
         int V = 4;
         ArrayList<Edge>graph[] = new ArrayList[V];

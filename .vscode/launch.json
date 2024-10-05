@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "kruskal",
+            "request": "launch",
+            "mainClass": "Graphs.kruskal",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
             "name": "Prims",
             "request": "launch",
             "mainClass": "Graphs.Prims",
