@@ -37,7 +37,6 @@ public class DFS {
             }
         }
     }
-
     private void dfsUtil(int curr, boolean[] visited) {
         visited[curr] = true;
         System.out.println(curr);
@@ -50,7 +49,6 @@ public class DFS {
             }
         }
     }
-
     public static void main(String[] args) {
         int V = 7;
         DFS dfsGraph = new DFS(V);

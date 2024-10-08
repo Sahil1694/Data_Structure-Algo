@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fib",
+            "request": "launch",
+            "mainClass": "Fib",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
             "name": "kruskal",
             "request": "launch",
             "mainClass": "Graphs.kruskal",
