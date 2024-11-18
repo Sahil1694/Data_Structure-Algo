@@ -1,6 +1,5 @@
-package Graphs;
-import java.util.*;
 
+import java.util.*;
 public class bipartite {
     static class Edge{
         int src;

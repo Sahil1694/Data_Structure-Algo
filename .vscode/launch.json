@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RecKnapsack",
+            "request": "launch",
+            "mainClass": "RecKnapsack",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
+            "name": "FractionalKnapsack",
+            "request": "launch",
+            "mainClass": "FractionalKnapsack",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
             "name": "ClimbingStair",
             "request": "launch",
             "mainClass": "ClimbingStair",
