@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TargetSumKnapsack",
+            "request": "launch",
+            "mainClass": "TargetSumKnapsack",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
             "name": "RecKnapsack",
             "request": "launch",
             "mainClass": "RecKnapsack",
