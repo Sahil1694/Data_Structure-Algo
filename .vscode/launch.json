@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LCS",
+            "request": "launch",
+            "mainClass": "LCS",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
+            "name": "RodCutting",
+            "request": "launch",
+            "mainClass": "RodCutting",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
+            "name": "UbboundedKnapsack",
+            "request": "launch",
+            "mainClass": "UbboundedKnapsack",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
             "name": "TargetSumKnapsack",
             "request": "launch",
             "mainClass": "TargetSumKnapsack",
