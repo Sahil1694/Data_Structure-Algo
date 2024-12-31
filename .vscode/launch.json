@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EditDistance",
+            "request": "launch",
+            "mainClass": "EditDistance",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
+            "name": "LIS",
+            "request": "launch",
+            "mainClass": "LIS",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
+            "name": "LCSubstring",
+            "request": "launch",
+            "mainClass": "LCSubstring",
+            "projectName": "DSA_d9bbc205"
+        },
+        {
+            "type": "java",
             "name": "LCS",
             "request": "launch",
             "mainClass": "LCS",
